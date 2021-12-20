@@ -16,7 +16,6 @@ async function main() {
     console.log(tbalance);
   });
 }
-
 // bot.start((ctx) => {
 //   ctx.reply("Welcome");
 //   console.log(ctx);
